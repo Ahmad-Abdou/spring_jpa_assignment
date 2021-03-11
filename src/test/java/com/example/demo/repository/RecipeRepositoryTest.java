@@ -36,6 +36,7 @@ public class RecipeRepositoryTest {
         System.out.println("FindIngredient.toString() = " + findRecipe.toString());
 
     }
+    //still need  to get fixed
     @Test
     public void test_find_Recipes_By_Ingredient(){
 //        List<Recipe> findRecipe = testObject.findRecipesByIngredient(ingredient);
@@ -44,6 +45,7 @@ public class RecipeRepositoryTest {
 //        System.out.println("FindIngredient.toString() = " + findRecipe.toString());
 
     }
+    //still need to get fixed
     @Test
     public void test_find_Recipes_By_Categories(){
 //        List<Recipe> findRecipe = testObject.findRecipesByCategories();
